@@ -68,3 +68,6 @@ Me apasiona crear soluciones innovadoras usando tecnologías modernas y buenas p
     <img src="https://img.shields.io/badge/Conectemos_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+## 🔢 Profile Visits
+![Visitor Count](https://profile-counter.glitch.me/{BramMorales}/count.svg)
